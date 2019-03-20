@@ -1,0 +1,585 @@
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    width: 100%;
+    max-width: 100%;
+    
+}
+
+
+#divLogo {
+
+    padding-left: .5s;
+}
+
+.menu li {
+    display: inline; 
+    
+}
+.menu ul {
+    background-color: white;
+    list-style: none; 
+}
+.menu ul li a {
+    display: inline;
+    color: #045294;
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    font-size: 1.4em;
+}
+.menu li a:hover {
+    color: #696969;
+    transition: 1s;
+}
+
+
+#menus {
+    margin-top: 4.5%;
+}
+
+
+.first-container {
+
+    
+
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+ 
+
+    
+}
+
+.first-container2 {
+
+
+    background-color: white;
+    opacity: .8;
+}
+
+.first-container3 {
+
+
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.second-container {
+
+    background-color: #696969;
+    width: 100%;
+    padding-top: 11%;
+
+
+}
+
+#Text {
+
+    padding-top: 5%;
+}
+
+#Title {
+
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
+
+#TitleHystory {
+
+    font-family: Gill Sans;
+    font-size: 1.5em;
+    color: #696969;
+
+}
+
+#Phrase {
+
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    
+}
+
+
+
+
+#ButtonSolution {
+
+    padding-top: 5%;
+    
+
+}
+
+#Line {
+
+    color: #045294;
+
+}
+
+
+#ButtonSolution a {
+
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 50px;
+    font-size: 1.5em;
+}
+
+
+#ButtonSolution a:hover {
+
+    background-color: #045294;
+    border: #045294;
+}
+
+
+.btn-1 {
+
+    transition: .5s;
+}
+
+.third-container {
+
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+}
+
+
+.TitleEmpresa {
+
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    color: #045294;
+    font-size: 2em;
+}
+
+
+#ImgTragetoryOne {
+
+    text-align: center;
+    padding-top: 2%;
+    
+}
+
+#TextTragetoryOne {
+
+    text-align: center;
+}
+
+#TitleTragetoryOne {
+
+    text-align: center;
+}
+
+#PhraseTragetoryOne {
+
+    padding-top: 12%;
+    padding-left: 20%;
+    text-align: center;
+    color: #999999;
+    font-family: 'Gill Sans';
+    font-size: 5em;
+}
+
+
+
+#TitleTragetoryOne {
+
+    font-size: 1.3em;
+    color: #696969;
+    font-family: 'Gill Sans';
+    
+}
+
+
+
+#TitleTragetoryOne b {
+
+    font-family: 'Gill Sans';
+    color: #045294;
+    font-size: 1.3em;
+}
+
+.five-container {
+
+    text-align: center;
+}
+
+
+#EmpresaEndFrase {
+
+    text-align: center;
+    padding-top: 5%;
+    font-size: 1.8em;
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    color: #696969;
+}
+
+#EmpresaEndFrase b {
+
+    color: #045294;
+}
+
+
+#SloganIsotopo {
+
+    text-align: center;
+}
+
+
+.third-container-second {
+
+    text-align: center;
+    font-family: 'Gill Sans';
+    font-size: 1.2em;
+    color: #696969;
+
+}
+
+.bg-light {
+
+ 
+    text-align: center;
+}
+
+.TitleSolution {
+
+    padding-top: 5%;
+    font-family: 'Gill Sans';
+    font-size: 1.5em;
+    color: #696969;
+}
+
+.TitleSolution b {
+
+    font-style: italic;
+    color: #045294;
+
+}
+
+.TextSolution {
+
+    font-family: 'Gill Sans';
+    color: #696969;
+    font-size: 1.3em;
+
+
+}
+
+
+.contato {
+
+    background-color: #045294;
+
+
+    
+}
+
+.formulario {
+
+   margin-top: 20%;
+    
+}
+
+
+
+.nome span {
+
+    color: aliceblue;
+}
+
+.nome input {
+
+    padding-right: 95%;
+  
+    border-radius: 5px;
+   
+}
+
+
+
+
+
+
+.email span {
+
+    color: aliceblue;
+}
+
+.email input {
+
+    padding-right: 96%;
+    
+    border-radius: 5px;
+    
+  
+}
+
+
+
+.telefone input {
+
+    padding-right: 90%; 
+   
+    border-radius: 5px;
+    
+    
+   
+
+}
+
+.telefone span {
+
+    color: aliceblue;
+}
+
+
+.mensagem textarea {
+
+    padding-right: 85%;
+    padding-top: 30%;
+    border-radius: 5px;
+    resize: none;
+  
+}
+
+
+.mensagem span {
+
+    color: aliceblue;
+    
+}
+
+#Send {
+
+    padding-top: 4%;
+    
+
+}
+
+#Line {
+
+    color: #696969;
+
+}
+
+
+#Send a {
+
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 7px 30px;
+    font-size: 1.5em;
+}
+
+#Send input {
+
+    text-decoration: none;
+    background: #045294;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 1.5em;
+    color: white;
+}
+
+
+
+
+
+#Send a:hover {
+
+    background-color: #696969;
+    border: #696969;
+}
+
+#Send input:hover {
+
+    background-color: #696969;
+    border: #696969;
+}
+
+
+.btn-1 {
+
+    transition: .5s;
+}
+
+.ContatoInfo {
+
+    
+    font-size: 2em;
+    color: #045294;
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding-top: 10%;
+
+}
+
+.ContatoPhone {
+
+    font-size: 1.8em;
+    color: #696969;
+    font-family: 'Gill Sans';
+    text-align: center;
+    padding-top: 10%;
+
+
+}
+
+.CartaoCredito {
+
+    
+    text-align: center;
+    padding-left: 12%;
+
+}
+
+.maps {
+    
+    text-align: center;
+}
+
+
+#whatsaap {
+
+    text-align: center;
+}
+
+.rodape {
+
+    background-color: #696969;
+}
+
+.TextRodape {
+
+    font-family: 'Gill Sans';
+    color: white;
+    text-align: center;
+    
+}
+
+footer {
+
+    position: absolute;
+    width: 100%;
+    color: #696969;
+ 
+}
+
+#icons {
+
+    margin-top: 1.5%;
+  
+}
+
+.icones {
+
+    margin-left: 4%;
+}
+
+.webpeople {
+
+    text-align: center;
+    color: #696969;
+  
+}
+
+.FormasPagamento {
+
+    font-family: 'Gill Sans';
+    text-decoration: none;
+    color: #045294;
+    font-size: 2em;
+    text-align: center;
+}
+
+#pag {
+
+    text-align: center;
+   
+}
+
+
+
+
+
+
+
+
+
+
+@keyframes btn-1 {
+
+    0% {
+        
+           transform: rotate(0);
+    }
+
+    25% {
+
+           transform: rotate(10deg);
+    }
+
+    50%{
+           transform: rotate(0);
+    }
+
+    75%{
+           transform: rotate(-10deg);
+
+    }
+
+    100%{
+           transform: rotate(0);
+    }
+}
+
+.btn-1:hover {
+
+    animation-name: btn-1;
+    animation-delay: .1s;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+}
+
+
+
+
+
+

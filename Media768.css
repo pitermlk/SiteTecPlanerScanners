@@ -1,0 +1,71 @@
+@media screen and (max-width: 768px) { 
+
+    .menu {
+
+       
+    }
+
+    #pipe li a{
+
+        display: none; 
+    }
+
+    #divLogo{
+
+      padding-left: 39%;
+        
+    }
+
+    #Text {
+
+        text-align: center;
+    }
+
+    #ButtonSolution {
+
+        height: 20vh;;
+    }
+
+    #TitleAndText {
+
+        text-align: center;
+        background-color: #045294;
+        padding-right: 21%;
+        padding-bottom: 10%;
+        
+
+    }
+
+    #TextTragetoryOne {
+
+        color: white;
+        
+    }
+
+    #PhraseTragetoryOne {
+
+
+        color: white;
+        background-color: #045294;
+        text-align: center;
+      
+    }
+
+    .marcas {
+
+        text-align: center;
+    }
+
+    #icons {
+
+        text-align: center;
+    }
+
+    #pag {
+
+        text-align: center;
+       
+    }
+
+    
+}

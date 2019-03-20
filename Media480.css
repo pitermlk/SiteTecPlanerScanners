@@ -1,0 +1,49 @@
+@media screen and (max-width: 480px) { 
+
+    .menu {
+
+        text-align: center;
+    }
+
+    #pipe li a{
+
+        display: none; 
+    }
+
+    #pipe li a{
+
+        display: none; 
+    }
+
+    #divLogo{
+
+      
+        
+        
+        padding-right: 38%;
+       
+    }
+
+
+
+
+    #ImgBanner {
+
+        display: none;
+    }
+
+
+    #Line {
+
+        display: none;
+    }
+
+    #Text p {
+
+        display: none;
+    }
+
+
+
+
+}
